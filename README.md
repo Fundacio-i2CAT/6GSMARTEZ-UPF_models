@@ -61,3 +61,7 @@ Both notebooks currently import:
 
 - The shared workflows are artifact-driven: they load pre-trained bundles instead of retraining from source data.
 - Naming is kept as-is from the repository (including `UPF_Phrophetv3.ipynb` filename spelling).
+
+
+## ACKs
+This work was supported by the Spanish Ministry of Economic Affairs and Digital Transformation and the European Union – NextGenerationEU, in the framework of the Recovery Plan, Transformation and Resilience (PRTR) (Call UNICO I+D 5G 2021, ref. numbers TSI-063000-2021-15 – 6GSMART-EZ).
